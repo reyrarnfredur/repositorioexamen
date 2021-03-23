@@ -1,12 +1,1 @@
-    git clone https://github.com/reyrarnfredur/repositorioexamen
-    cd C:\Users\Alumno\Desktop\repositorioexamen
-    notepad examen-uf2.txt
-    git status
-    git add examen-uf2.txt
-    git config --global user.email "a.reyr@gmx.us"
-    git config --global user.name "reyrarnfredur"
-    git commit -m "EXAMEN-UF2"
-    git push
-    git log --pretty
-    
 
